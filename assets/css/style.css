@@ -4,3 +4,8 @@ html, body, #viewDiv {
     height: 100%;
     width: 100%;
   }
+  #viewDiv {
+    width: 75vw;
+    height: 75vh;
+    margin: 0 auto;
+  }
